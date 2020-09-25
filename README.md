@@ -41,4 +41,4 @@ A pasta principal, contem o desafio e no arquivo README.md estará a descrição
 * Mande um pull request para este repositório.
 
 # Dúvidas?
-[PHPRio](t.me/PHPRio) ou procure a comunidade por onde você recebeu o desafio.
+[PHPRio](t.me/PHPRio) ou procure a comunidade por onde você recebeu o desafio. 
